@@ -1,6 +1,6 @@
 # 📊 Pandas Complete Practice Notebook
 
-![Pandas Logo](pandas.images.png)
+![Pandas Logo](panda.images.png)
 
 A comprehensive Jupyter notebook covering essential Pandas operations including DataFrame basics, merging datasets, handling null values, data aggregation, filtering, and visualization.
 
